@@ -19,7 +19,7 @@ Input Image → Preprocessing → Deskew → OCR → Text Cleaning → PII Detec
 ```
 OCR_Pipeline_Assignment/
 │
-├── notebook.ipynb
+├── ocr_pipeline_assignment.ipynb
 ├── requirements.txt
 ├── images/
     ├── page_14.jpg
