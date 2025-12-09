@@ -17,13 +17,16 @@ Input Image → Preprocessing → Deskew → OCR → Text Cleaning → PII Detec
 
 ## Project Structure
 ```
-ocr-pii-extraction-assignment/
+OCR_Pipeline_Assignment/
 │
 ├── notebook.ipynb
 ├── requirements.txt
 ├── images/
+    ├── page_14.jpg
+    ├── page_30.jpg
+    ├── page_35.jpg
 ├── README.md
-└── Results Screenshots
+└── Results Screenshots/
 ```
 
 ## Setup
