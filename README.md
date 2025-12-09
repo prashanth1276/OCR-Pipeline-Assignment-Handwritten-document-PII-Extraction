@@ -1,1 +1,1 @@
-"# OCR-Pipeline-Assignment-Handwritten-document-PII-Extraction" 
+# OCR-Pipeline-Assignment-Handwritten-document-PII-Extraction
