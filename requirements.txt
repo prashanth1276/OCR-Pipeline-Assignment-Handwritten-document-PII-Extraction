@@ -1,0 +1,11 @@
+'''
+Im using Python 3.10 version
+if you dont have tesseract, Install Tesseract OCR and add it to PATH (Environment Variables)
+'''
+
+opencv-python==4.8.1.78
+pytesseract==0.3.10
+Pillow==10.1.0
+numpy==1.24.3
+matplotlib==3.7.2
+easyocr==1.7.1
