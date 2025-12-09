@@ -16,7 +16,7 @@ This project implements a complete OCR and PII (Personally Identifiable Informat
 Input Image → Preprocessing → Deskew → OCR → Text Cleaning → PII Detection → Redaction
 
 ## Project Structure
-```
+
 ocr-pii-extraction-assignment/
 │
 ├── notebook.ipynb
@@ -24,7 +24,6 @@ ocr-pii-extraction-assignment/
 ├── images/
 ├── README.md
 └── Results Screenshots
-```
 
 ## Setup
 
